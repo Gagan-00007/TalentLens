@@ -6,6 +6,12 @@ dist/
 build/
 *.egg
 
+# Node / Frontend
+node_modules/
+.eslintcache
+.vite/
+frontend/dist/
+
 # Virtual environments
 venv/
 .venv/
